@@ -578,8 +578,8 @@ const publications=[
  {year:2024,title:'Bidirectional Regression for Monocular 6DoF Head Pose Estimation and Reference System Alignment',authors:'S. Chun, B. Kim, H. J. Chang, J. Y. Chang',venue:'2024 preprint',link:'https://scholar.google.com/scholar?q=Bidirectional+Regression+for+Monocular+6DoF+Head+Pose+Estimation+and+Reference+System+Alignment',tag:'Google Scholar'},
 ];
 const newsItems=[
- {date:'SEP 2026',title:'Two papers accepted to NeurIPS 2026',source:'Hyung Jin Chang · Human-Centred Visual Learning Lab',url:'https://cvlab-uob.github.io/'},
- {date:'SEP 2026',title:'Visual Object Tracking Challenge team receives the PAMI Mark Everingham Prize at ECCV 2026',source:'Hyung Jin Chang · Human-Centred Visual Learning Lab',url:'https://cvlab-uob.github.io/'},
+ {date:'SEP 2026',title:'Four papers accepted to NeurIPS 2026',source:'Visual Learning Group @UoB',url:'https://cvlab-uob.github.io/'},
+ {date:'SEP 2026',title:'Prof. Aleš Leonardis and Dr. Hyung Jin Chang’s Visual Object Tracking Challenge team receives the <strong class="news-highlight">PAMI Mark Everingham Prize</strong> at ECCV 2026',source:'Visual Learning Group @UoB',url:'https://cvlab-uob.github.io/'},
  {date:'AUG 2026',title:'New XR work announced for UIST and SUI 2026',source:'Eyal Ofek · Mixed Reality research',url:'https://eyalofek.org/research-blog/'},
  {date:'JUL 2026',title:'Dr Yihua Cheng joins Beijing Institute of Technology as a tenure-track professor',source:'Human-Centred Visual Learning Lab alumni news',url:'https://cvlab-uob.github.io/'},
  {date:'JUL 2026',title:'NVIDIA Academic Grant awarded to support GazeBot research',source:'Hyung Jin Chang · Human-Centred Visual Learning Lab',url:'https://cvlab-uob.github.io/'}
