@@ -1,6 +1,6 @@
-# Visual Learning Group @UoB
+# Visual Learning Group@UoB
 
-A responsive, static group website for Visual Learning Group @UoB intended for GitHub Pages. It uses plain HTML, CSS and JavaScript; no build step or package installation is required.
+A responsive, static group website for Visual Learning Group@UoB intended for GitHub Pages. It uses plain HTML, CSS and JavaScript; no build step or package installation is required.
 
 ## Preview locally
 
