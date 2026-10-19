@@ -50,3 +50,8 @@
 .publication h3{margin-bottom:2px;line-height:1.35}
 .publication .pub-venue{margin-top:4px!important}
 .publication-year{padding-top:17px;padding-bottom:7px}
+.publication{padding:5px 0;gap:8px}
+.publication h3{margin-bottom:1px;line-height:1.28}
+.publication p{line-height:1.35}
+.publication .pub-venue{margin-top:2px!important}
+.publication-year{padding-top:12px;padding-bottom:5px}
