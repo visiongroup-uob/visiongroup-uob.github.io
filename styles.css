@@ -42,3 +42,7 @@
 @media(max-width:680px){.brand{gap:4px;font-size:11px}.brand .uob-logo{width:145px;max-height:36px}.nav{font-size:14px}}
 @media(min-width:1101px){.brand .uob-logo{width:292px;max-height:64px}}
 .news-item a .news-highlight,.hero-news-item a .news-highlight{font-weight:800;color:#765600;background:#f4eccd;padding:1px 4px}
+.hero-news-item a{font-size:14px;line-height:1.5}
+.hero-news-item time{font-size:10px}
+.hero-news-item{padding-top:6px;padding-bottom:12px}
+@media(max-width:680px){.hero-news-item a{font-size:13px}.hero-news-item time{font-size:9px}}
