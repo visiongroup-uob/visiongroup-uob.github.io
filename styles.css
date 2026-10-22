@@ -55,3 +55,5 @@
 .publication p{line-height:1.35}
 .publication .pub-venue{margin-top:2px!important}
 .publication-year{padding-top:12px;padding-bottom:5px}
+.topic-link{display:inline-block;margin-top:11px;border-bottom:1px solid #c59a00;color:#5e4900;font-size:11px;font-weight:800;line-height:1.5}
+.topic-link:hover{color:#1b1b1b;border-color:#1b1b1b}
